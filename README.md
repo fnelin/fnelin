@@ -1,7 +1,7 @@
 # 👋 Frontend Developer with Business & IT Background
 
 Frontend-focused developer with a foundation in business economics and system development. I build user-centric solutions with a strong focus on structure, clarity, and business value.
-<table>
+<table width="100%">
 <tr><td width=50% valign="top">
       
 ## 🚀 About Me
