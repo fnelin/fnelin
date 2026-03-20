@@ -1,8 +1,8 @@
 # 👋 Frontend Developer with Business & IT Background
 
 Frontend-focused developer with a foundation in business economics and system development. I build user-centric solutions with a strong focus on structure, clarity, and business value.
-<table width="100%">
-<tr><td width=50% valign="top">
+<table>
+<tr><td valign="top">
       
 ## 🚀 About Me
 - Analytical, curious, and solution-oriented  
@@ -28,9 +28,9 @@ Frontend-focused developer with a foundation in business economics and system de
 - Frontend development (component-driven, responsive design)  
 - State management and API integration  
 - Data visualization and reporting  
-- Database understanding and ETL flows  
+- Database development and ETL flows  
 - Financial analysis and cost awareness in tech decisions  
-- Agile ways of working and cross-functional collaboration
+- Agile workflow and cross-functional collaboration
   
 </td><td width=50% valign="top">
       
@@ -41,19 +41,31 @@ Frontend-focused developer with a foundation in business economics and system de
 **Other:** Git, Microsoft 365, Agile (SAFe, Lean)  
 </td>
 </tr>
+
 <tr>
 <td colspan="2">
 
 ## 📂 Featured Projects
 
-| Project | Preview | Description |
-|--------|--------|------------|
-| **The Npc** | <img src="./images/thenpc.jpg" alt="preview" width="200"/>| Evergreen hobby project in C# & Unity |
-| **Reviews and thoughts** | <img src="./images/reviews.png" alt="preview" width="200"/> | Typescript/nextjs/prisma portfolio from the Lexicon frontdev crash course |
-| **Planned planthood** | <img src="./images/planned.png" alt="preview" width="200"/>  | Semantic HTML /CSS excersize  |
+<table>
+  <tr>
+    <th width=33%>The Npc</th>
+    <th width=33%>Reviews and Thoughts</th>
+    <th width=33%>Planned Planthood</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./images/thenpc.jpg" alt="The Npc" width="200"></td>
+    <td align="center"><a href="https://github.com/fnelin/portfolioFE"><img src="./images/reviews.png" alt="Reviews" width="200"></a></td>
+    <td align="center"><a href="https://github.com/yourusername/Planned-Planthood"><img src="./images/planned.png" alt="Planned Planthood" width="200"></a></td>
+  </tr>
+  <tr>
+    <td>Evergreen hobby project in C# & Unity</td>
+    <td>Typescript / Next.js / Prisma</td>
+    <td>Semantic HTML/CSS exercise</td>
+  </tr>
+</table>
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ## 📫 Contact
@@ -67,9 +79,8 @@ Frontend-focused developer with a foundation in business economics and system de
     </td>
     <td align="center">
       <a href="mailto:fredrik.nelin@outlook.com">
-        <img src="https://github.com/fnelin.png" width="60" style="border-radius:50%;" /><br/>
+        <img src="./images/email.png" width="60" style="border-radius:50%;" /><br/>
         Mail
-      </a>
       </a>
     </td>
   </tr>
