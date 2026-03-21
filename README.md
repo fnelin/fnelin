@@ -1,14 +1,8 @@
 # 👋 Frontend Developer with Business & IT Background
 
-<a href="https://www.linkedin.com/in/fnelin/">
-<img src="https://img.shields.io/badge/LinkedIn-fnelin-blue?logo=linkedin" />
-</a>
-<a href="mailto:fredrik.nelin@outlook.com">
-<img src="https://img.shields.io/badge/mail-fredrik.nelin(@)outlook.com-blue?logo=gmail" />
-</a>
-<a href="https://bsky.app/profile/fnelin.bsky.social" rel="nofollow">
-<img src="https://img.shields.io/badge/@fnelin.bsky.social-0285FF?logo=bluesky&amp;logoColor=fff&amp;label=bluesky&;color=0285FF" />
-</a>
+<a href="https://www.linkedin.com/in/fnelin/"><img src="https://img.shields.io/badge/LinkedIn-fnelin-blue?logo=linkedin" /></a> 
+<a href="mailto:fredrik.nelin@outlook.com"><img src="https://img.shields.io/badge/mail-fredrik.nelin(@)outlook.com-blue?logo=gmail" /></a> 
+<a href="https://bsky.app/profile/fnelin.bsky.social" rel="nofollow"><img src="https://img.shields.io/badge/@fnelin.bsky.social-0285FF?logo=bluesky&amp;logoColor=fff&amp;label=bluesky&;color=0285FF" /></a>
 
 Frontend-focused developer with a foundation in business economics and system development. I build user-centric solutions with a strong focus on structure, clarity, and business value.
 
