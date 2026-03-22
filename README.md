@@ -59,7 +59,6 @@ Frontend-focused developer with a foundation in business economics and system de
   <tr>
     <th width=33%>The Npc</th>
     <th width=33%>Reviews and Thoughts</th>
-    <th width=33%>Planned Planthood :sweden: </th>
   </tr>
   <tr>
     <td align="center"><a href="./">
@@ -70,11 +69,20 @@ Frontend-focused developer with a foundation in business economics and system de
     <img src="./images/reviews.png" alt="Reviews" width="200"><br />
     <img src="https://img.shields.io/badge/lexicon-portfolio-blue?logo=github" /></a>
     </td>
-    <td align="center"><a href="https://github.com/fnelin/Planned-Planthood">
-    <img src="./images/planned.png" alt="Planned Planthood" width="200"><br />
-    <img src="https://img.shields.io/badge/lexicon-exercise-blue?logo=github" /></a> 
-    </td>
   </tr>
+  <tr>
+    <th width=33%>Planned Planthood :sweden: </th>
+    <th width=33%>Högskoleprepp :sweden: </th>
+  </tr>
+<tr>
+<td align="center"><a href="https://github.com/fnelin/Planned-Planthood">
+<img src="./images/planned.png" alt="Planned Planthood" width="200"><br />
+<img src="https://img.shields.io/badge/lexicon-exercise-blue?logo=github" /></a> 
+</td>
+<td align="center"><a href="https://github.com/fnelin/hogskoleprovet_ovning">
+<img src="./images/hogskoleprepp.png" alt="Högskoleprepp" width="200"><br />
+<img src="https://img.shields.io/badge/private-exercise-blue?logo=github" /></a> 
+</tr>
 </table>
 
 </td></tr>
