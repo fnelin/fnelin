@@ -54,7 +54,8 @@ Frontend-focused developer with a foundation in business economics and system de
 <td colspan="2">
 
 ## 📂 Featured Projects
-
+<img src="https://img.shields.io/badge/github-public-blue?logo=github" />
+<img src="https://img.shields.io/badge/github-private-orange?logo=github" />
 <table>
   <tr>
     <th width=33%>The Npc</th>
@@ -63,11 +64,11 @@ Frontend-focused developer with a foundation in business economics and system de
   <tr>
     <td align="center"><a href="./">
     <img src="./images/thenpc.jpg" alt="The Npc" width="200"><br />
-    <img src="https://img.shields.io/badge/github-private-orange?logo=github"></a>
+    <img src="https://img.shields.io/badge/Unity-evergreen-orange?logo=unity&logoColor=fff"></a>
     </td>
     <td align="center"><a href="https://github.com/fnelin/portfolioFE">
     <img src="./images/reviews.png" alt="Reviews" width="200"><br />
-    <img src="https://img.shields.io/badge/lexicon-portfolio-blue?logo=github" /></a>
+    <img src="https://img.shields.io/badge/Lexicon-portfolio-blue?logo=typescript&logoColor=fff" /></a>
     </td>
   </tr>
   <tr>
@@ -77,7 +78,7 @@ Frontend-focused developer with a foundation in business economics and system de
 <tr>
 <td align="center"><a href="https://github.com/fnelin/Planned-Planthood">
 <img src="./images/planned.png" alt="Planned Planthood" width="200"><br />
-<img src="https://img.shields.io/badge/lexicon-exercise-blue?logo=github" /></a> 
+<img src="https://img.shields.io/badge/Lexicon-exercise-blue?logo=typescript&logoColor=fff" /></a> 
 </td>
 <td align="center"><a href="https://github.com/fnelin/hogskoleprovet_ovning">
 <img src="./images/hogskoleprepp.png" alt="Högskoleprepp" width="200"><br />
