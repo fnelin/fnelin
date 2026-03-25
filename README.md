@@ -81,7 +81,7 @@ Frontend-focused developer with a foundation in business economics and system de
 </td>
 <td align="center"><a href="https://github.com/fnelin/hogskoleprovet_ovning">
 <img src="./images/hogskoleprepp.png" alt="Högskoleprepp" width="200"><br />
-<img src="https://img.shields.io/badge/private-exercise-blue?logo=github" /></a> 
+<img src="https://img.shields.io/badge/AI-exercise-blue?logo=github" /></a> 
 </tr>
 </table>
 
