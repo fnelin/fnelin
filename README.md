@@ -9,21 +9,21 @@ Frontend-focused developer with a foundation in business economics and system de
 <table>
 <tr><td valign="top">
       
-## 🚀 About Me
+## 💼 About Me
 - Analytical, curious, and solution-oriented  
 - Combines developer and business mindset  
 - Bridge between business and IT  
-- Focused on scalable, modern frontend applications  
+- Focused on scalable, modern applications for data delivery
 - Translates complex needs into intuitive interfaces  
 - Experience in financial analysis, structured, large-scale environments  and data-driven decisions
    
 </td><td width=50% valign="top">
   
-## 💼 What I Deliver
-- Build responsive, modern frontend applications 
-- Translate business requirements into intuitive front end solutions  
+## 🚀 What I Deliver
+- Responsive, modern frontend applications 
+- Translate business requirements into intuitive solutions  
 - Create structured, maintainable codebases  
-- Develop data-driven interfaces using APIs and analytics tools  
+- Develop data-driven interfaces with modern tools  
 - Improve workflows through automation, structure, and clear processes
    
 </td>
@@ -33,7 +33,6 @@ Frontend-focused developer with a foundation in business economics and system de
 
 ## 🧠 Core Skills
 - Frontend development (component-driven, responsive design)  
-- State management and API integration  
 - Data visualization and reporting  
 - Database development and ETL flows  
 - Financial analysis and cost awareness in tech decisions  
