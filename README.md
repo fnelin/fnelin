@@ -83,7 +83,20 @@ I build user-centric solutions with a strong focus on structure, clarity, and bu
 <td align="center"><a href="https://github.com/fnelin/hogskoleprovet_ovning">
 <img src="./images/hogskoleprepp.png" alt="Högskoleprepp" width="200"><br />
 <img src="https://img.shields.io/badge/AI%20Claude-exercise-blue?logo=claude&logoColor=fff" /></a> 
+</td>
 </tr>
+  <tr>
+    <th width=33%>A Small Teacher</th>
+    <th width=33%></th>
+  </tr>
+<tr>
+<td align="center"><a href="https://github.com/fnelin/ASmallTeacherTS">
+<img src="./images/asmallteacher.png" alt="Högskoleprepp" width="200"><br />
+<img src="https://img.shields.io/badge/AI%20Claude-exercise-blue?logo=claude&logoColor=fff" /></a> 
+</td>
+<td></td>
+</tr>
+
 </table>
 
 </td></tr>
