@@ -92,7 +92,7 @@ I build user-centric solutions with a strong focus on structure, clarity, and bu
 <tr>
 <td align="center"><a href="https://github.com/fnelin/ASmallTeacherTS">
 <img src="./images/asmallteacher.png" alt="Högskoleprepp" width="200"><br />
-<img src="https://img.shields.io/badge/AI%20Claude-exercise-blue?logo=claude&logoColor=fff" /></a> 
+<img valign="middle" src="https://img.shields.io/badge/AI%20Claude-exercise-blue?logo=claude&logoColor=fff" /></a>
 </td>
 <td></td>
 </tr>
