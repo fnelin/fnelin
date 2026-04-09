@@ -21,7 +21,7 @@ I build user-centric solutions with a strong focus on structure, clarity, and bu
 </td><td width=50% valign="top">
   
 ## 🚀 What I Deliver
-- Responsive, modern frontend applications 
+- Responsive, modern frontend applications with solid backend framework
 - Translate business requirements into intuitive solutions  
 - Create structured, maintainable codebases  
 - Develop data-driven interfaces with modern tools  
