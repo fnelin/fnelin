@@ -1,4 +1,4 @@
-# 👋 Frontend Developer with Business & IT experience
+# 👋 Frontend Developer
 
 <a href="https://www.linkedin.com/in/fnelin/"><img src="https://img.shields.io/badge/LinkedIn-fnelin-blue?logo=linkedin" /></a> 
 <a href="mailto:fredrik.nelin@outlook.com"><img src="https://img.shields.io/badge/mail-fredrik.nelin(@)outlook.com-blue?logo=gmail" /></a> 
